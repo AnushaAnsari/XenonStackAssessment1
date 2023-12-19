@@ -1,6 +1,7 @@
 # XenonStackAssessment1
 Linux Custom Script Task
-Scenario
+Scenario:
+
 A customer requires a custom Linux command for specific operations. Your task is to create a Linux command using a Bash script.
 
 Command Name: internsctl
